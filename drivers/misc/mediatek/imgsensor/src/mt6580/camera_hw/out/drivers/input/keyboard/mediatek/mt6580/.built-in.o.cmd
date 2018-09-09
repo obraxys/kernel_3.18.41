@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/mediatek/mt6580/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/input/keyboard/mediatek/mt6580/built-in.o drivers/input/keyboard/mediatek/mt6580/hal_kpd.o 

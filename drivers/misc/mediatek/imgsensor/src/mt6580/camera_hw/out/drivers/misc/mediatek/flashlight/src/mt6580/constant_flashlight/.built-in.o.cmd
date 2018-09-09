@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/src/mt6580/constant_flashlight/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/flashlight/src/mt6580/constant_flashlight/built-in.o drivers/misc/mediatek/flashlight/src/mt6580/constant_flashlight/leds_strobe.o 

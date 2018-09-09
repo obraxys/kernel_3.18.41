@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/chip/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/chip/built-in.o drivers/misc/mediatek/chip/CHIP_COMMON.o drivers/misc/mediatek/chip/mt6580/built-in.o 

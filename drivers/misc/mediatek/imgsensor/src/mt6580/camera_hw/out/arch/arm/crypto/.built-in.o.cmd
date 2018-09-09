@@ -1,0 +1,1 @@
+cmd_arch/arm/crypto/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o arch/arm/crypto/built-in.o arch/arm/crypto/aes-arm.o arch/arm/crypto/aes-arm-bs.o arch/arm/crypto/sha256-arm.o arch/arm/crypto/sha2-arm-ce.o 

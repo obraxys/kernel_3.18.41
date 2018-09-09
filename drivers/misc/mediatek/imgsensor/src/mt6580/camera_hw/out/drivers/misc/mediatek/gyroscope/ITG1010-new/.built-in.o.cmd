@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/gyroscope/ITG1010-new/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/gyroscope/ITG1010-new/built-in.o drivers/misc/mediatek/gyroscope/ITG1010-new/ITG1010.o 

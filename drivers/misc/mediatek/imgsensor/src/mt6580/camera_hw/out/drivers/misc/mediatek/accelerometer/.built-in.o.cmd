@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accelerometer/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/accelerometer/built-in.o drivers/misc/mediatek/accelerometer/accel.o drivers/misc/mediatek/accelerometer/accel_factory.o drivers/misc/mediatek/accelerometer/mxc622x/built-in.o 

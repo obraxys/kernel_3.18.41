@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/common/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o sound/soc/mediatek/common/built-in.o sound/soc/mediatek/common/auddrv_devtree_parser.o sound/soc/mediatek/common/auddrv_underflow_mach.o 

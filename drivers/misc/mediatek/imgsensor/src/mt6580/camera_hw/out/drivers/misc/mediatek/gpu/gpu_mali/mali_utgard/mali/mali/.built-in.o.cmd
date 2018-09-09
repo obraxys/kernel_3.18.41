@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/gpu/gpu_mali/mali_utgard/mali/mali/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/gpu/gpu_mali/mali_utgard/mali/mali/built-in.o drivers/misc/mediatek/gpu/gpu_mali/mali_utgard/mali/mali/mali.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/mrdump/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/aee/mrdump/built-in.o drivers/misc/mediatek/aee/mrdump/mrdump_mini.o drivers/misc/mediatek/aee/mrdump/mrdump_control.o 

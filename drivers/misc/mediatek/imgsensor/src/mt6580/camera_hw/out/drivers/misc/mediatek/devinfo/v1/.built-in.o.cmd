@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/devinfo/v1/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/devinfo/v1/built-in.o drivers/misc/mediatek/devinfo/v1/devinfo.o drivers/misc/mediatek/devinfo/v1/devinfosys.o 

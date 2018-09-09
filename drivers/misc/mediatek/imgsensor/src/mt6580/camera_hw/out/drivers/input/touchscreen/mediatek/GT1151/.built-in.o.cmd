@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/mediatek/GT1151/built-in.o :=  rm -f drivers/input/touchscreen/mediatek/GT1151/built-in.o; /usr/bin/arm-linux-gnueabi-ar rcsD drivers/input/touchscreen/mediatek/GT1151/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/fmradio/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/misc/mediatek/connectivity/fmradio/built-in.o drivers/misc/mediatek/connectivity/fmradio/mtk_fm_drv.o drivers/misc/mediatek/connectivity/fmradio/dummy.o 
